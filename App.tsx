@@ -15,7 +15,7 @@ function App(): React.JSX.Element {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#121212', // Dark theme nền tảng
+    backgroundColor: '#121212', // Dark theme
   },
   content: {
     flex: 1,
